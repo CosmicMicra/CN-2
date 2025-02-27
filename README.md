@@ -35,9 +35,9 @@ Client using customized protocol on top of UDP protocol for requesting identific
 
 1.  **Compile**
     
-    ```sh
-    gcc -o server server.c
-    gcc -o client client.c
+    ```
+    make clean
+    make
     
     ```
     
